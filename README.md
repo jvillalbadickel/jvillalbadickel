@@ -16,7 +16,8 @@ With a rich entrepreneur and business advisor background, I'm deeply passionate 
 
 ---
 ### Projects in SQL
-- [Golden Age of VideoGames](https://github.com/jvillalbadickel/golden_age_videogames)
+- [Golden Age of Videogames](https://github.com/jvillalbadickel/golden_age_videogames)
+- [International Debt](https://github.com/jvillalbadickel/international_debt)
 
 ### Projects in Power BI
 - [Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiMjhkYjE1ZDktZDJjYS00MzkzLWJmYzAtNjJhMjJhOGE0MmNiIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection)
