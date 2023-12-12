@@ -15,15 +15,12 @@ With a rich entrepreneur and business advisor background, I'm deeply passionate 
 - Founder & CEO at Baratote: Grew a retail chain to a peak of $10 million in annual sales, demonstrating strong leadership and operational management skills.
 
 ---
+### Projects in SQL
+- [Golden Age of VideoGames]([https://www.example.com](https://github.com/jvillalbadickel/golden_age_videogames))
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="MySQL" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img align="left" alt="Python" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+### Projects in Power BI
+- [Adventure Works]([https://www.example.com](https://app.powerbi.com/view?r=eyJrIjoiMjhkYjE1ZDktZDJjYS00MzkzLWJmYzAtNjJhMjJhOGE0MmNiIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection))
+- [HR analytics]([https://www.example.com](https://app.powerbi.com/view?r=eyJrIjoiODFiOTFhMzctYzUyOS00NWE5LThmOTQtMzAzM2E3ZTU3MGFhIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection))
 
 
 <!---
