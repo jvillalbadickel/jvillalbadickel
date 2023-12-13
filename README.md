@@ -22,7 +22,11 @@ With a rich entrepreneur and business advisor background, I'm deeply passionate 
 
 ### Projects in Power BI
 - [Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiMjhkYjE1ZDktZDJjYS00MzkzLWJmYzAtNjJhMjJhOGE0MmNiIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection)
+- [Data Science Job Market Insights](https://app.powerbi.com/view?r=eyJrIjoiNjJhYzdiOWYtNzdkNy00YzhiLWEwOWMtODY2YTk4NGY4ZjEwIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
+- [Competitor Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzJkMjgxZTktZmNjNC00NDEwLWI1YjUtMmIzYTcxMTgxYTQyIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
+- [Healthcare Analytics](https://app.powerbi.com/view?r=eyJrIjoiNmFlMjUxYTYtNzg5Ny00Y2M3LTkwZmUtZjg2ZTMxMDMyOTQ2IiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
 - [HR analytics](https://app.powerbi.com/view?r=eyJrIjoiODFiOTFhMzctYzUyOS00NWE5LThmOTQtMzAzM2E3ZTU3MGFhIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection)
+- [Ecommerce Analysis](https://app.powerbi.com/view?r=eyJrIjoiZmQ3MzQ1ZjQtMThiYS00NTY3LTljZjgtNGJhYjI1NGNiYTQ5IiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
 - [Customer Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiODBmNGQzZDUtMjQyMS00NTRlLWI0MmEtMDg4MWY3ODNiNTIzIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
 
 
