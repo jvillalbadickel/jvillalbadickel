@@ -17,6 +17,7 @@ With a rich entrepreneur and business advisor background, I'm deeply passionate 
 ---
 ### Projects in SQL
 - [Golden Age of Videogames](https://github.com/jvillalbadickel/golden_age_videogames/blob/main/golden_age_videogames.sql)
+- [Baby Names Trends](https://github.com/jvillalbadickel/babynames_trend/blob/main/baby_names.sql)
 - [International Debt](https://github.com/jvillalbadickel/international_debt/blob/main/international_debt.sql)
 
 ### Projects in Power BI
