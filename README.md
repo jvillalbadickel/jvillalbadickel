@@ -23,6 +23,7 @@ With a rich entrepreneur and business advisor background, I'm deeply passionate 
 ### Projects in Power BI
 - [Adventure Works](https://app.powerbi.com/view?r=eyJrIjoiMjhkYjE1ZDktZDJjYS00MzkzLWJmYzAtNjJhMjJhOGE0MmNiIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection)
 - [HR analytics](https://app.powerbi.com/view?r=eyJrIjoiODFiOTFhMzctYzUyOS00NWE5LThmOTQtMzAzM2E3ZTU3MGFhIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9&pageName=ReportSection)
+- [Customer Churn Analysis](https://app.powerbi.com/view?r=eyJrIjoiODBmNGQzZDUtMjQyMS00NTRlLWI0MmEtMDg4MWY3ODNiNTIzIiwidCI6IjMxMTEyZTNkLWFlNzMtNDE5OC1hYjI0LTRkNDg0MjllNThjMyIsImMiOjR9)
 
 
 <!---
